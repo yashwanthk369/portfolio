@@ -4,7 +4,7 @@ function Hero() {
   return (
     <section className="hero" id="hero">
       <div className="hero-content">
-        <img src="/PassportSizePhoto.jpg" alt="Yashwanth K" className="hero-img" />
+        <img src="/portfolio/PassportSizePhoto.jpg" alt="Yashwanth K" className="hero-img" />
         <div className="hero-text">
           <h1>Hi, I'm Yashwanth K</h1>
           <h2>Full Stack Developer</h2>
